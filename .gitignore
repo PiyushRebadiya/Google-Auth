@@ -1,5 +1,5 @@
 # Ignore Firebase key
-# backend/src/config/firebaseServiceAccountKey.json
+backend/src/config/firebaseServiceAccountKey.json
 
 # Frontend environment files
 frontend/.env
