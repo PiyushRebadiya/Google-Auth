@@ -1,0 +1,2 @@
+# Ignore Firebase key
+backend/src/config/firebaseServiceAccountKey.json
